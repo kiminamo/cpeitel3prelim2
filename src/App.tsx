@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Button, Card, CardContent, Typography } from "@mui/material";
-import { skills } from "./Data.tsx";
+import { skills } from "./Skills.tsx";
 
 const App = () => {
   const [index, setIndex] = useState(0);
