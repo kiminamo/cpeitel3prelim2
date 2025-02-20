@@ -2,7 +2,7 @@
   "name": "prelim2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/yasher-cpu/cpeitel3prelim2",
+  "homepage": "https://kiminamo.github.io/cpeitel3prelim2",
   "type": "module",
   "scripts": {
     "dev": "vite",
