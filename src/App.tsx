@@ -28,7 +28,7 @@ const App = () => {
         10 Things that Require Zero Talent
       </Typography>
       <Typography variant="subtitle1" gutterBottom sx={{ color: "gray" }}>
-        by Mark Yasher P. Santos
+        by Kimberly Manaloto
       </Typography>
 
       <Card
